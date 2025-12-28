@@ -66,5 +66,3 @@ posture-detector/
 
 ## 📄 License
 MIT License - Free to use/modify
-
-Sources
